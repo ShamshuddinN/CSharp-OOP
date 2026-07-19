@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/EducationLib.csproj",
+      "projectUniqueName": "/home/shams/Desktop/CSharp-OOP/Joins/EducationLib/EducationLib.csproj",
       "projectName": "EducationLib",
-      "projectPath": "/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/EducationLib.csproj",
+      "projectPath": "/home/shams/Desktop/CSharp-OOP/Joins/EducationLib/EducationLib.csproj",
       "packagesPath": "/home/shams/.nuget/packages/",
-      "outputPath": "/home/shams/Desktop/cSharp_MS-Learn/Joins/EducationLib/obj/",
+      "outputPath": "/home/shams/Desktop/CSharp-OOP/Joins/EducationLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/shams/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.128/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
