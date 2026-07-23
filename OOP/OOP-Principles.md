@@ -1,11 +1,11 @@
 # OOP Principles
 
-- Encapsulation
-- Abstraction
-- Inheritance
-- Polymorphism
-- Coupling
-- Composition
+- [Encapsulation](#encapsulation)
+- [Abstraction](#abstraction)
+- [Inheritance](#inheritance)
+- [Polymorphism](#polymorphism)
+- [Coupling](#coupling)
+- [Composition](#composition)
 
 # Encapsulation:
 
